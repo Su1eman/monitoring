@@ -1,6 +1,0 @@
-Sep 25 15:47:22 vps-df74a1e7 cosmovisor[612080]: #033[90m3:47PM#033[0m #033[32mINF#033[0m #033[1mEnsure peers#033[0m #033[36mmodule=#033[0mpex #033[36mnumDialing=#033[0m0 #033[36mnumInPeers=#033[0m0 #033[36mnumOutPeers=#033[0m10 #033[36mnumToDial=#033[0m0 #033[36mserver=#033[0mnode
-
-Sep 25 15:48:23 vps-df74a1e7 cosmovisor[612080]: #033[90m3:48PM#033[0m #033[32mINF#033[0m #033[1mindexed block events#033[0m #033[36mheight=#033[0m8352661 #033[36mmodule=#033[0mtxindex #033[36mserver=#033[0mnode
-
-Sep 25 15:51:55 vps-df74a1e7 cosmovisor[612080]: #033[90m3:51PM#033[0m #033[32mINF#033[0m #033[1mindexed block events#033[0m #033[36mheight=#033[0m8352698 #033[36mmodule=#033[0mtxindex #033[36mserver=#033[0mnode
-
