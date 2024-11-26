@@ -152,3 +152,14 @@ Nov 26 16:00:39 vps-df74a1e7 nym-node[2433402]: #033[2m2024-11-26T16:00:39.51404
 Nov 26 16:00:42 vps-df74a1e7 kernel: [53415378.597547] [UFW BLOCK] IN=ens3 OUT= MAC=fa:16:3e:68:6e:1e:da:98:11:3f:bd:c7:08:00 SRC=95.214.53.205 DST=51.79.159.79 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=24322 DF PROTO=TCP SPT=50082 DPT=85 WINDOW=64240 RES=0x00 SYN URGP=0 
 Nov 26 16:01:20 vps-df74a1e7 kernel: [53415416.536379] [UFW BLOCK] IN=ens3 OUT= MAC=fa:16:3e:68:6e:1e:da:98:11:3f:bd:c7:08:00 SRC=148.113.161.210 DST=51.79.159.79 LEN=60 TOS=0x00 PREC=0x00 TTL=51 ID=57898 DF PROTO=TCP SPT=43252 DPT=16656 WINDOW=64240 RES=0x00 SYN URGP=0 
 
+Nov 26 16:40:27 vps-df74a1e7 systemd[1]: systemd-timedated.service: Succeeded.
+Nov 26 16:40:31 vps-df74a1e7 50-motd-news[2507974]:  * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+Nov 26 16:40:31 vps-df74a1e7 50-motd-news[2507974]:    just raised the bar for easy, resilient and secure K8s cluster deployment.
+Nov 26 16:40:31 vps-df74a1e7 50-motd-news[2507974]:    https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Nov 26 16:40:31 vps-df74a1e7 systemd[1]: motd-news.service: Succeeded.
+Nov 26 16:40:31 vps-df74a1e7 systemd[1]: Finished Message of the Day.
+Nov 26 16:40:39 vps-df74a1e7 nym-node[2433402]: #033[2m2024-11-26T16:40:39.567621Z#033[0m #033[32m INFO#033[0m #033[2mmixnode/src/node/node_statistics.rs#033[0m#033[2m:#033[0m#033[2m268#033[0m#033[2m:#033[0m Since startup mixed 33363 packets! (0 in last 30 seconds)
+Nov 26 16:40:39 vps-df74a1e7 kernel: [53417775.937783] [UFW BLOCK] IN=ens3 OUT= MAC=fa:16:3e:68:6e:1e:da:98:11:3f:bd:c7:08:00 SRC=65.21.65.112 DST=51.79.159.79 LEN=60 TOS=0x00 PREC=0x00 TTL=43 ID=23447 DF PROTO=TCP SPT=38100 DPT=16656 WINDOW=64240 RES=0x00 SYN URGP=0 
+Nov 26 16:40:41 vps-df74a1e7 kernel: [53417777.767611] [UFW BLOCK] IN=ens3 OUT= MAC=fa:16:3e:68:6e:1e:da:98:11:3f:bd:c7:08:00 SRC=92.255.57.44 DST=51.79.159.79 LEN=40 TOS=0x00 PREC=0x00 TTL=234 ID=59457 PROTO=TCP SPT=50519 DPT=6709 WINDOW=1024 RES=0x00 SYN URGP=0 
+Nov 26 16:41:13 vps-df74a1e7 kernel: [53417809.781367] [UFW BLOCK] IN=ens3 OUT= MAC=fa:16:3e:68:6e:1e:da:98:11:3f:bd:c7:08:00 SRC=162.142.125.229 DST=51.79.159.79 LEN=60 TOS=0x00 PREC=0x00 TTL=46 ID=50005 PROTO=TCP SPT=1182 DPT=7130 WINDOW=42340 RES=0x00 SYN URGP=0 
+
